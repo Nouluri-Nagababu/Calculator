@@ -32,7 +32,7 @@ body{
 
 .calculator {
   background: rgba(19, 19, 15, 0.86);
-  padding: 20px;
+
   border-radius: 10px;
   width: 100%;  /* Default width is 100% */
   max-width: 500px;  /* Set maximum width for larger screens */
