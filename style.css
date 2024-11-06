@@ -80,7 +80,7 @@ form input.operator {
 @media (max-width: 768px) {
   .calculator {
     max-width: 85%;  /* Take up most of the screen width on mobile */
-    padding: 15px;
+    padding: 2px;
   }
 
   .calculator form input {
