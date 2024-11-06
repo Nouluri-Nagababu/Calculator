@@ -25,14 +25,10 @@ body{
 .container {
   width: 100%;
   height: 78vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .calculator {
   background: rgba(19, 19, 15, 0.86);
-
   border-radius: 10px;
   width: 100%;  /* Default width is 100% */
   max-width: 500px;  /* Set maximum width for larger screens */
@@ -79,7 +75,7 @@ form input.operator {
 /* Mobile-first approach */
 @media (max-width: 768px) {
   .calculator {
-    max-width: 85%;  /* Take up most of the screen width on mobile */
+    max-width: 95%;  /* Take up most of the screen width on mobile */
     padding: 2px;
   }
 
